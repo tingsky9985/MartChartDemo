@@ -3,7 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="textColor">#ffaa00</color>
-    <color name="gridColor">#f1f1f1</color>
+    <color name="chart_x_text_color">#ffaa00</color>
+    <color name="chart_grid_color">#f1f1f1</color>
+    <color name="chart_text_color">#ffaa00</color>
 
 </resources>
